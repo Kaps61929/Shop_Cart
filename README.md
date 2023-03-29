@@ -25,7 +25,7 @@
 
 
 #Demo
-https://user-images.githubusercontent.com/115138974/228674800-df8e321f-3d8c-4236-b679-dd6053e0e425.mp4
+[![Watch the video](https://user-images.githubusercontent.com/115138974/228674800-df8e321f-3d8c-4236-b679-dd6053e0e425.mp4)
 ## Running Locally
 After cloning this repository, migrate to ```flutter-amazon-clone-tutorial``` folder. Then, follow the following steps:
 - Create MongoDB Project & Cluster
