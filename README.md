@@ -1,5 +1,5 @@
 # ShopCart
- A Full Stack Ecomerce App with Admin pannel and payement gateway
+ A Full Stack Ecomerce App with User pannel,Admin pannel and payement gateway
 
 ## Features
 - Email & Password Authentication
