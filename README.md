@@ -27,7 +27,19 @@
 # Demo
 
 -User Pannel
-https://user-images.githubusercontent.com/115138974/228748533-4d12ec83-2eca-4576-a6ac-6f2772dbf753.mp4
+
+
+
+
+
+
+https://user-images.githubusercontent.com/115138974/228749240-b8cd3491-4a8d-470c-aa55-5b95e224ddd7.mp4
+
+
+
+
+
+
 
 -Admin Panel
 
