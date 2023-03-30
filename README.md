@@ -104,10 +104,11 @@ https://user-images.githubusercontent.com/115138974/228749020-c7f47736-0370-4025
 
 
 
+**Deployed Server Link** -https://shopp-cartt.onrender.com
 
 
 ## Running Locally
-After cloning this repository, migrate to ```Shop_Cart``` folder. Then, follow the following steps:
+After cloning this repository, migrate to ```Shopp_Cart``` folder. Then, follow the following steps:
 - Create MongoDB Project & Cluster
 - Click on Connect, follow the process where you will get the uri.- Replace the MongoDB uri with yours in ```server/index.js```.
 - Head to ```lib/constants/global_variables.dart``` file, replace <yourip> with your IP Address. 
