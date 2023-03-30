@@ -72,7 +72,7 @@ https://user-images.githubusercontent.com/115138974/228749020-c7f47736-0370-4025
 
 
 
--**Admin Panel**
+**Admin Panel**
 
 
 ## Running Locally
