@@ -1,5 +1,5 @@
 # ShopCart
- A Full Stack Ecomerce App with User pannel, Admin pannel and payement gateway
+ A Full Stack Ecomerce App with User panel, Admin panel and payement gateway
 
 ## Features
 - Email & Password Authentication
@@ -26,8 +26,14 @@
 
 # Demo
 
-
+-User Pannel
 https://user-images.githubusercontent.com/115138974/228748533-4d12ec83-2eca-4576-a6ac-6f2772dbf753.mp4
+
+-Admin Panel
+
+
+
+https://user-images.githubusercontent.com/115138974/228749020-c7f47736-0370-4025-8af6-86e4ac190bdf.mp4
 
 
 ## Running Locally
