@@ -24,7 +24,11 @@
     - Viewing Category Based Earnings (on Graph)
 
 
-##Demo
+# Demo
+
+
+https://user-images.githubusercontent.com/115138974/228748533-4d12ec83-2eca-4576-a6ac-6f2772dbf753.mp4
+
 
 ## Running Locally
 After cloning this repository, migrate to ```flutter-amazon-clone-tutorial``` folder. Then, follow the following steps:
