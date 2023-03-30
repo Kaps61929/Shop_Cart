@@ -75,7 +75,8 @@ https://user-images.githubusercontent.com/115138974/228749020-c7f47736-0370-4025
 **Admin Panel**
 
 # ScreenShots
-![Screenshot_2023-03-30-12-09-15-34_10079afe98fff8727165f232d5c44b60](https://user-images.githubusercontent.com/115138974/228755029-b37d646d-f571-4360-a936-ba20cc7ca5b9.jpg=250x250)![Screenshot_2023-03-30-12-09-26-25_10079afe98fff8727165f232d5c44b60](https://user-images.githubusercontent.com/115138974/228755050-103934c9-eb5e-479c-89d6-4940171bb248.jpg)
+<img src="https://user-images.githubusercontent.com/115138974/228755029-b37d646d-f571-4360-a936-ba20cc7ca5b9.jpg" height ="200" width ="200">
+[Screenshot_2023-03-30-12-09-26-25_10079afe98fff8727165f232d5c44b60](https://user-images.githubusercontent.com/115138974/228755050-103934c9-eb5e-479c-89d6-4940171bb248.jpg)
 
 
 ![Screenshot_2023-03-30-12-10-01-47_10079afe98fff8727165f232d5c44b60](https://user-images.githubusercontent.com/115138974/228755102-746d44a3-083a-48c7-af08-49b321fb2bae.jpg)
