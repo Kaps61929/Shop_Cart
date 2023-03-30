@@ -26,7 +26,7 @@
 
 # Demo
 
--**User Pannel
+--**User Pannel**
 
 
 
@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/115138974/228749240-b8cd3491-4a8d-470c
 
 
 
--**Admin Panel
+-**Admin Panel**
 
 
 
