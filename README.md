@@ -26,7 +26,7 @@
 
 # Demo
 
---**User Pannel**
+
 
 
 
@@ -41,16 +41,23 @@ https://user-images.githubusercontent.com/115138974/228749240-b8cd3491-4a8d-470c
 
 
 
+**User Pannel**
 
 
 
 
--**Admin Panel**
+
+
+
 
 
 
 
 https://user-images.githubusercontent.com/115138974/228749020-c7f47736-0370-4025-8af6-86e4ac190bdf.mp4
+
+
+
+-**Admin Panel**
 
 
 ## Running Locally
