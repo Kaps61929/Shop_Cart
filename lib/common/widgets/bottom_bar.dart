@@ -3,7 +3,7 @@ import 'package:shopp_cart/features/account/screens/account_screen.dart';
 import 'package:shopp_cart/features/cart/screens/cart_screen.dart';
 import 'package:shopp_cart/features/home/screens/home_screen.dart';
 import 'package:shopp_cart/providers/user_provider.dart';
-import 'package:badges/badges.dart';
+import 'package:badges/badges.dart' as badges;
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
@@ -100,7 +100,7 @@ class _BottomBarState extends State<BottomBar> {
                   ),
                 ),
               ),
-              child: Badge(
+              child: badges.Badge(
                 elevation: 0,
                 badgeContent: Text(userCartLen.toString()),
                 badgeColor: Colors.white,

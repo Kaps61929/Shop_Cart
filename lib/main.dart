@@ -48,6 +48,7 @@ class _MyAppState extends State<MyApp> {
             color: Colors.black,
           ),
         ),
+        
         useMaterial3: true, // can remove this line
       ),
       onGenerateRoute: (settings) => generateRoute(settings),
