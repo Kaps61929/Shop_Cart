@@ -130,7 +130,7 @@ https://user-images.githubusercontent.com/115138974/228749020-c7f47736-0370-4025
 ```
 
 ## Tech Used
-**Server**: Node.js, Express, Mongoose, MongoDB, Cloudinary
+**Server**: Node.js, Express, Mongoose, MongoDB, Cloudinary, Redis, Aws, Nginx
 
 **Client**: Flutter, Provider
     
