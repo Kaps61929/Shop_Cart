@@ -100,11 +100,11 @@ https://user-images.githubusercontent.com/115138974/228749020-c7f47736-0370-4025
 
 
 
-**Deployed Server Link** -https://shopp-cartt.onrender.com
+**Deployed Server Link** -http://54.253.220.241
 
 
 **Server Code** -https://github.com/Kaps61929/shop_cart_server
-**Apk**-https://drive.google.com/file/d/1aT0Jq7T95lKkK2Q8QtSPt0Ixqdsk9vfu/view?usp=sharing
+**Apk** -https://drive.google.com/file/d/1aT0Jq7T95lKkK2Q8QtSPt0Ixqdsk9vfu/view?usp=sharing
 
 ## Running Locally
 After cloning this repository, migrate to ```Shopp_Cart``` folder. Then, follow the following steps:
