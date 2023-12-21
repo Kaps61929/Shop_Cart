@@ -100,7 +100,7 @@ https://user-images.githubusercontent.com/115138974/228749020-c7f47736-0370-4025
 
 
 
-**Deployed Server Link** -http://54.253.220.241
+**Deployed Server Link** -http://54.253.220.241  (Deployed on aws along with Nginx)
 
 
 **Server Code** -https://github.com/Kaps61929/shop_cart_server
@@ -111,15 +111,7 @@ https://user-images.githubusercontent.com/115138974/228749020-c7f47736-0370-4025
 
 **Apk** -https://drive.google.com/file/d/1aT0Jq7T95lKkK2Q8QtSPt0Ixqdsk9vfu/view?usp=sharing
 
-## Running Locally
-After cloning this repository, migrate to ```Shopp_Cart``` folder. Then, follow the following steps:
-- Create MongoDB Project & Cluster
-- Click on Connect, follow the process where you will get the uri.- Replace the MongoDB uri with yours in ```server/index.js```.
-- Head to ```lib/constants/global_variables.dart``` file, replace <yourip> with your IP Address. 
-- Create Cloudinary Project, enable unsigned operation in settings.
-- Head to ```lib/features/admin/services/admin_services.dart```, replace ```denfgaxvg``` and ```uszbstnu``` with your Cloud Name and Upload Preset respectively.
 
-Then run the following commands to run your app:
 
 ### Server Side
 ```bash
